@@ -1,2 +1,3 @@
 # Netflix_visualisation
-Netflix stock price analysis and visualisation
+
+Here is my code and presentation for the Netflix analysis project.
